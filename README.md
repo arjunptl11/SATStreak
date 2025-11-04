@@ -1,4 +1,4 @@
-# SATStreak
+# SATStreak: By ArjunTutors
 
 SATStreak is a Duolingo-style SAT preparation app that helps students study consistently and effectively. It focuses on creating a daily habit of practice through short, personalized question sets that track progress over time. The platform is designed to make test prep engaging, accessible, and mobile-friendly.
 
